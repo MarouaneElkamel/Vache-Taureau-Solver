@@ -40,7 +40,7 @@ The command line tool offer this options:
 
 
 ```sh
-git clone https://github.com/MarouaneElkamel/vache_taureau.git
+git clone https://github.com/MarouaneElkamel/Vache-Taureau-Solver.git
 cd ./src
 javac Vache.java
 Java Vache
